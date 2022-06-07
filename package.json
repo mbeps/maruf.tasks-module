@@ -1,0 +1,17 @@
+{
+    "name": "tasks-extension-pack",
+    "displayName": "Tasks Extension Pack",
+    "description": "Collection of extensions for handling tasks only",
+    "version": "0.0.1",
+    "publisher": "Maruf",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "spmeesseman.vscode-taskexplorer", 
+		"actboy168.tasks" 
+    ]
+}
