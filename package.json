@@ -1,6 +1,6 @@
 {
-    "name": "tasks-extension-pack",
-    "displayName": "Tasks Extension Pack",
+    "name": "tasks-module",
+    "displayName": "Tasks Module",
     "description": "Collection of extensions for handling tasks only",
     "version": "0.0.1",
     "publisher": "Maruf",
